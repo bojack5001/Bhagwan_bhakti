@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { ChevronLeft, ChevronRight, Info, BarChart2, Check, X } from 'lucide-react';
 import { useStore } from '../store/useStore';
 

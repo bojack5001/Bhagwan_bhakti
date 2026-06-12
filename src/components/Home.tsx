@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { Play, Flame, ChevronRight, Droplets, Flower2, Users, BookOpen, Heart } from 'lucide-react';
 import { useStore } from '../store/useStore';
 

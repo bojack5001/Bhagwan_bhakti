@@ -1,5 +1,5 @@
-import React, { useState } from 'react';
-import { Menu, Coins, Home as HomeIcon, BarChart3, Settings as SettingsIcon, Trophy, Image, Quote, Briefcase, LogOut, X } from 'lucide-react';
+import { useState } from 'react';
+import { Menu, Coins, Home as HomeIcon, BarChart3, Settings as SettingsIcon, Trophy, Image, Quote, Briefcase, LogOut } from 'lucide-react';
 import { Home } from './components/Home';
 import { Statistics } from './components/Statistics';
 import { Leaderboard } from './components/Leaderboard';

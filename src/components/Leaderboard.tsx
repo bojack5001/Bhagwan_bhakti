@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { Trophy, Globe } from 'lucide-react';
 
 export function Leaderboard() {

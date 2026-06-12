@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { ChevronRight, Vibrate, Bell, Settings as SettingsIcon, Cloud, HelpCircle, MessageSquare, Lightbulb, Heart, Star, Share2, Globe } from 'lucide-react';
 
 export function Settings() {
